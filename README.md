@@ -6,6 +6,12 @@ I haven't included the node_modules folder. You'll need to run:
 
 This will rebuild your dependencies based on the package.json file.
 
+## Dependencies
+Reactor - page management.
+Axios - unique Key management
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
