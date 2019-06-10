@@ -7,8 +7,11 @@ I haven't included the node_modules folder. You'll need to run:
 This will rebuild your dependencies based on the package.json file.
 
 ## Dependencies
-Reactor - page management.
-Axios - unique Key management
+Reactor - page management
+
+UUID - unique Key management (removed in favor of Axios)
+
+Axios - integration of dummy JSON data. (replaced UUID for unique keys)
 
 
 
