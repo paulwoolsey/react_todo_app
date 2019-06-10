@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+I haven't included the node_modules folder. You'll need to run:
+
+### `npm install`
+
+This will rebuild your dependencies based on the package.json file.
+
 ## Available Scripts
 
 In the project directory, you can run:
